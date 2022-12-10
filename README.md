@@ -1,0 +1,1 @@
+built my first static page on React 
